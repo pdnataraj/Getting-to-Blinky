@@ -1,6 +1,6 @@
 # Getting To Blinky
 
-In this project, I design a flashing LED circuit using a 555 timer. The purpose of this project is to familiarize myself with simple PCB design. The inspiration for this project comes from [GETTING TO BLINKY 4.0](https://contextualelectronics.com/courses/getting-to-blinky/)
+In this project, I design a flashing LED circuit using a 555 timer. The purpose of this project is to familiarize myself with simple PCB design. The inspiration for this project comes from [GETTING TO BLINKY 4.0](https://contextualelectronics.com/courses/getting-to-blinky/) for which I followed the tutorials in order to build my project.
 
 ## Getting Started
 
@@ -18,7 +18,7 @@ A step by step series of examples that tell you have to get a development env ru
 Installing Kicad
 
 ```
-Kicad is free and open source and may be downloaded from [Kicad](http://kicad-pcb.org/download/)
+Kicad is free and open source and may be downloaded from http://kicad-pcb.org/download/
 ```
 
 ## Built With
@@ -37,5 +37,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Thank you Contextual Electronics for helping me take the first step towards PCB design
+* Thank you Contextual Electronics for helping me take the first step towards PCB design.
 

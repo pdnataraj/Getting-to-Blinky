@@ -18,18 +18,18 @@ A step by step series of examples that tell you have to get a development env ru
 Installing Kicad
 
 ```
-Kicad is free and open source and may be downloaded from http://kicad-pcb.org/
+Kicad is free and open source and may be downloaded from [Kicad](http://kicad-pcb.org/download/)
 ```
 
 ## Built With
 
-* [Kicad](http://kicad-pcb.org/) - The web framework used
+* [Kicad](http://kicad-pcb.org/) - The PCB design software used
 
 
 ## Authors
 
-* **Paul Natarajan** - *Initial work* - [Paul Natarajan](https://github.com/pdnataraj)
-* **Contextual Electronics** - *Inspiration* - [Contextual Electronics](https://contextualelectronics.com/courses/getting-to-blinky/)
+* **Paul Natarajan** - *Hobbyist* - [Paul Natarajan](https://github.com/pdnataraj)
+* **Contextual Electronics** - *Initial Work/Inspiration* - [Contextual Electronics](https://contextualelectronics.com/courses/getting-to-blinky/)
 
 ## License
 

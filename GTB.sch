@@ -1,4 +1,5 @@
 EESchema Schematic File Version 2
+LIBS:GTB-rescue
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -127,7 +128,7 @@ Wire Wire Line
 	5600 2550 5600 2700
 Connection ~ 5600 2550
 $Comp
-L LED D1
+L LED-RESCUE-GTB D1
 U 1 1 5772F917
 P 6150 4050
 F 0 "D1" H 6150 4150 50  0000 C CNN
@@ -171,7 +172,7 @@ Wire Wire Line
 Wire Wire Line
 	4800 3950 4800 4100
 $Comp
-L Battery BT1
+L Battery-RESCUE-GTB BT1
 U 1 1 5772FC7A
 P 4050 3350
 F 0 "BT1" H 4150 3400 50  0000 L CNN

@@ -1,6 +1,6 @@
 # Getting To Blinky
 
-In this project, I design a flashing LED circuit using a 555 timer. The purpose of this project is to familiarize myself with simple PCB design. The inspiration for this project comes from [GETTING TO BLINKY 4.0](https://contextualelectronics.com/courses/getting-to-blinky/) for which I followed the tutorials in order to build my project.
+In this project, I design a flashing LED circuit using a 555 timer. The purpose of this project is to familiarize myself with simple PCB design. The inspiration for this project comes from [Getting to Blinky 4.0](https://contextualelectronics.com/courses/getting-to-blinky/) for which I followed the tutorials in order to build my project.
 
 ## Getting Started
 
